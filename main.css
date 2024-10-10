@@ -72,6 +72,7 @@
 }
 
 .cover {
+    margin-bottom: 1rem;
     padding-block-end: clamp(2rem, .5915rem + 6.0094vw, 6rem);
     padding-block-start: clamp(4rem, 1.8873rem + 9.0141vw, 10rem);
     position: relative;
